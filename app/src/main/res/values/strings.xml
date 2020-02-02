@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyJobSchedular</string>
+    <string name="net_type">Network Type Required</string>
+    <string name="schedulejob">ScheduleJob</string>
+    <string name="cancel_jobs">Cancel Jobs</string>
+    <string name="deadline">Override Deadline</string>
+    <string name="notset">NotSet</string>
+</resources>
